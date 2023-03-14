@@ -1,4 +1,4 @@
-#Simulación de Animales: 
+Simulación de Animales: 
 
 
 Se desea diseñar un programa de simulación que permita al usuario lanzar un conjunto de animales diferentes a un entorno, para ver qué pasa.   
